@@ -37,6 +37,9 @@ Este bundle proporciona funcionalidad de encriptación para entidades de Doctrin
 #### [Symfony Scaffold](https://github.com/ISerranoDev/Symfony-Scaffold)
 Scaffold o estructura básica para comenzar desarrollos en Symfony en su última versión LTS
 
+#### [URLTrim](https://urltrim.iserranodev.net)
+Acortador de enlaces gratuito desarrollado con Go
+
 ---
 
 ### 📈 Estadísticas de GitHub
